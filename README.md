@@ -4,7 +4,7 @@ Fetch Rewards frontend take home exercise to create a form that fetch's data fro
 
 ## Screenshot
 
-![Form-Image]()
+![Form-Image](https://user-images.githubusercontent.com/97766663/219901476-131c02ce-061d-49d6-b7a0-b0d5fbc8aa10.png)
 
 ## Installation and Setup Instructions
 
